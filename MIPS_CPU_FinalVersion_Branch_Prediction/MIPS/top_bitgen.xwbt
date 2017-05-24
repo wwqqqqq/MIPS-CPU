@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\WQ\Desktop\2017Spring\ComputerOriganization\experiment\E7\MIPS_CPU_FinalVersion_Branch_Prediction\MIPS\top.ncd
+OUTFILE=C:\Users\WQ\Desktop\2017Spring\ComputerOriganization\experiment\E7\MIPS_CPU_FinalVersion_Branch_Prediction\MIPS\top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\WQ\Desktop\2017Spring\ComputerOriganization\experiment\E7\MIPS_CPU_FinalVersion_Branch_Prediction\MIPS
+LICENSE=ISE
+USER_INFO=135256_15690819_173552794_661
